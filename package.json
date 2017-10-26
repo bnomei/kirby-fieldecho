@@ -1,0 +1,7 @@
+{
+  "name": "kirby-fieldecho",
+  "description": "Kirby CMS Tag to echo fields of current Page-Object",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
